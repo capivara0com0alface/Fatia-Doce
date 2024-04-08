@@ -1,0 +1,48 @@
+:root{
+    --roxo: #5ab857;
+    --branco:#ffffff;
+}
+
+
+
+body{
+    background-color: var(--roxo);
+    font-size: 40px;
+    font-style: oblique;
+}
+
+/* comentários */
+
+img{
+width: 10%;
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+#intro{
+    display: flex;
+    background-color: var(--branco);
+    border: dashed 3px black;
+    margin: 10px;
+   padding: 10px;
+
+}
+.img-sabores{
+    width: 40%;
+
+}
+
+.saborhmmm{
+text-align: center;
+
+}
+
+.meooww{
+display: grid;
+grid-template-columns: 50% 50%;
+}
