@@ -46,3 +46,8 @@ text-align: center;
 display: grid;
 grid-template-columns: 50% 50%;
 }
+
+.ft-integrantes{
+width: 40%;
+
+}
