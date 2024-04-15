@@ -28,15 +28,10 @@ header{
    
 }
 #intro{
-    display: flex;
-    background-color: var(--branco);
-    border: dashed 3px black;
-    margin: 10px;
-   padding: 10px;
-
+    margin: 54px;
 }
 .img-confeitaria{
-    width: 70%;
+    width: 100%;
     
 
 }
@@ -65,6 +60,5 @@ font-size: 18px;
 
 .esp{
     padding-right: 36%;
-    color: #E02B53;
-}
 
+}
