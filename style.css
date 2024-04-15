@@ -64,6 +64,9 @@ font-size: 18px;
 }
 
 a{
-    color: #E02B53;
+   color: #E02B53;
     text-decoration: none;
+}
+header a{
+    color:  #491519;
 }
