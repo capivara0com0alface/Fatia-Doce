@@ -59,6 +59,9 @@ color: #000000;
 font-size: 18px;
 }
 
+.tit{
+    margin: 20px;
+}
 
 .esp{
     font-family: "Jolly Lodger", system-ui;
