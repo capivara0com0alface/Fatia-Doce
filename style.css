@@ -16,7 +16,7 @@ body{
 /* comentários */
 
 img{
-width: 6%;
+    width: 80px;
 
 }
 
@@ -60,7 +60,7 @@ font-size: 18px;
 }
 
 .tit{
-    margin: 20px;
+    margin: -7px;
 }
 
 .esp{
