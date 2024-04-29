@@ -30,8 +30,9 @@ header{
     text-align: center;
 }
 #intro{
-    margin: 54px;
+    padding: ;: 54px;
     background-color: var(--roxo);
+    
 }
 .img-confeitaria{
     width: 100%;
