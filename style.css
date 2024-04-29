@@ -98,5 +98,6 @@ header a{
 .tabela{
 display: grid;
 grid-template-columns: 60% 40%;
-
+margin: 20px;
+padding: 20px;
 }
