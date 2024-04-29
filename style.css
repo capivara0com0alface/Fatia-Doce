@@ -82,7 +82,8 @@ font-family: "Jolly Lodger", system-ui;
     font-style: normal;
     font-size: 73px;
     background-color: #EFE1CF;
-    border: #491519 solid;
+    border-top: #491519 solid 6px;
+    border-bottom: #491519 solid 6px;
     color: #E02B53;
 
 }
