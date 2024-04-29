@@ -8,7 +8,7 @@
 
 
 body{
-    background-color: var(--roxo);
+    background-color: var(--branco);
     font-size: 40px;
     font-style: oblique;
 }
@@ -31,6 +31,7 @@ header{
 }
 #intro{
     margin: 54px;
+    background-color: var(--roxo);
 }
 .img-confeitaria{
     width: 100%;
@@ -91,4 +92,10 @@ a{
 }
 header a{
     color:  #491519;
+}
+
+.tabela{
+display: grid;
+grid-template-columns: 60% 40%;
+m
 }
