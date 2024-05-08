@@ -115,11 +115,11 @@ font-size: 27px;
 .principal{
     font-size: 30px;
     text-align: center;
-    border-bottom: 2px color:#E02B53 solid;
+    border-bottom: 2px rgb(241, 98, 122) solid;
 }
 
 .titulo{
-    background-color:#E02B53;
+    background-color: rgb(241, 98, 122);
     text-align: center;
     border: 3px solid white;
     box-shadow: 0 0 0 2px color:#E02B53;
