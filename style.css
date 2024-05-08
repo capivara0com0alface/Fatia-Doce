@@ -110,3 +110,34 @@ background-color: var(--roxo);
     width: 98%;
     padding-left: 20px;
 }
+
+.principal{
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 2px rgb(241, 98, 122) solid;
+}
+
+.titulo{
+    background-color: rgb(241, 98, 122);
+    text-align: center;
+    border: 3px solid white;
+    box-shadow: 0 0 0 2px rgb(241, 98, 122);
+
+}
+
+.desc{
+    display: flex;
+    flex-direction: column;
+}
+
+.descri{
+    font-size: 10px;
+}
+
+.dinheiro{
+    padding: 0 20px 0 10px;
+}
+
+.espa{
+    padding: 3px;
+}
