@@ -145,5 +145,6 @@ font-size: 27px;
 }
 
 .mendigos{
-    
+     position: relative;
+    bottom: 40px;
 }
